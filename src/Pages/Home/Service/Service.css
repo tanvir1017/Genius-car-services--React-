@@ -1,0 +1,10 @@
+.service-card {
+  background-color: #dee1e2;
+  padding: 10px;
+  /* border-radius: 15px; */
+  box-shadow: 4px 0px 8px 0px rgba(84, 84, 84, 0.28);
+}
+img {
+  /* border-radius: 15px; */
+  width: 100%;
+}
